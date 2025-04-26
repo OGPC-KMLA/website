@@ -1,7 +1,11 @@
-API
+Credits
 ===
+**Developers:** Mateo Arbildo and Kavish Dhar
 
-.. autosummary::
-   :toctree: generated
+**Sounds:** Kavish Dhar
 
-   lumache
+**Artists:** Aarna Dhar and Lucia Arbildo
+
+**Coaches:** Orlando Arblido, Pooja Madan
+
+**ReadTheDocs Site Maintaner:** Mateo Arbildo
