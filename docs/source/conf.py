@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'Super Storm Bros'
+copyright = '2025, Mateo A'
+author = 'Mateo A'
 
 release = '0.1'
-version = '0.1.0'
+version = '0.1.3'
 
 # -- General configuration
 
