@@ -1,5 +1,5 @@
 Credits
-===
+===================================
 
 **Developers:** Mateo Arbildo and Kavish Dhar
 
