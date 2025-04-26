@@ -1,5 +1,6 @@
 Credits
 ===
+
 **Developers:** Mateo Arbildo and Kavish Dhar
 
 **Sounds:** Kavish Dhar
