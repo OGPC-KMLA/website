@@ -31,5 +31,5 @@ Contents
 
 .. toctree::
 
-   Google_Doc
+   files
    credits
