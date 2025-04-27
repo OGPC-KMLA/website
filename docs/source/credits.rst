@@ -5,8 +5,8 @@ Credits
 
 **Sounds:** Kavish Dhar
 
-**Artists:** Aarna Dhar and Lucia Arbildo
+**Artists:** Lucia Arbildo and Aarna Dhar
 
-**Coaches:** Orlando Arblido, Pooja Madan
+**Coaches:** Orlando Arblido and Pooja Madan
 
 **ReadTheDocs Site Maintaner:** Mateo Arbildo
