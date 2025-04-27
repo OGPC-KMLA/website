@@ -33,3 +33,5 @@ Contents
 
    files
    credits
+
+Go to https://github.com/gobrowse/ogpc-game-platformer to see our github repo!
